@@ -1,13 +1,13 @@
-Wed May  3 01:30:01 AM EEST 2023
+Wed May  3 01:40:01 AM EEST 2023
 
 enp0s25: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
         inet 10.93.171.222  netmask 255.255.254.0  broadcast 10.93.171.255
         inet6 fe80::58f1:e1e8:cbaf:aa66  prefixlen 64  scopeid 0x20<link>
         inet6 fd02:1:1:15:ba38:eb4f:2538:3817  prefixlen 64  scopeid 0x0<global>
         ether 64:00:6a:84:56:2d  txqueuelen 1000  (Ethernet)
-        RX packets 91544963  bytes 27529119742 (25.6 GiB)
+        RX packets 91547585  bytes 27530729569 (25.6 GiB)
         RX errors 0  dropped 0  overruns 0  frame 0
-        TX packets 81571409  bytes 21141799106 (19.6 GiB)
+        TX packets 81572715  bytes 21141948680 (19.6 GiB)
         TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
         device interrupt 20  memory 0xfb100000-fb120000  
 
@@ -15,24 +15,24 @@ lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
         inet 127.0.0.1  netmask 255.0.0.0
         inet6 ::1  prefixlen 128  scopeid 0x10<host>
         loop  txqueuelen 1000  (Local Loopback)
-        RX packets 1916776  bytes 963211053 (918.5 MiB)
+        RX packets 1916784  bytes 963212756 (918.5 MiB)
         RX errors 0  dropped 0  overruns 0  frame 0
-        TX packets 1916776  bytes 963211053 (918.5 MiB)
+        TX packets 1916784  bytes 963212756 (918.5 MiB)
         TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
 
 virbr0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
         inet 192.168.122.1  netmask 255.255.255.0  broadcast 192.168.122.255
         ether 52:54:00:4b:32:4a  txqueuelen 1000  (Ethernet)
-        RX packets 78138600  bytes 18525914483 (17.2 GiB)
+        RX packets 78138791  bytes 18525931367 (17.2 GiB)
         RX errors 0  dropped 0  overruns 0  frame 0
-        TX packets 78068632  bytes 24006139195 (22.3 GiB)
+        TX packets 78068780  bytes 24006158244 (22.3 GiB)
         TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
 
 vnet0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
         inet6 fe80::fc54:ff:fe8f:283f  prefixlen 64  scopeid 0x20<link>
         ether fe:54:00:8f:28:3f  txqueuelen 1000  (Ethernet)
-        RX packets 78138600  bytes 19619854883 (18.2 GiB)
+        RX packets 78138791  bytes 19619874441 (18.2 GiB)
         RX errors 0  dropped 0  overruns 0  frame 0
-        TX packets 79042086  bytes 24056770394 (22.4 GiB)
+        TX packets 79042534  bytes 24056805043 (22.4 GiB)
         TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
 
