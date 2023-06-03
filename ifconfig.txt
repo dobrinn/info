@@ -1,13 +1,13 @@
-Sat Jun  3 12:30:01 PM EEST 2023
+Sat Jun  3 12:40:01 PM EEST 2023
 
 enp0s25: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
         inet 10.93.171.222  netmask 255.255.254.0  broadcast 10.93.171.255
         inet6 fe80::58f1:e1e8:cbaf:aa66  prefixlen 64  scopeid 0x20<link>
         inet6 fd02:1:1:15:ba38:eb4f:2538:3817  prefixlen 64  scopeid 0x0<global>
         ether 64:00:6a:84:56:2d  txqueuelen 1000  (Ethernet)
-        RX packets 414138  bytes 44208631 (42.1 MiB)
+        RX packets 414910  bytes 44297547 (42.2 MiB)
         RX errors 0  dropped 0  overruns 0  frame 0
-        TX packets 209187  bytes 96013498 (91.5 MiB)
+        TX packets 209247  bytes 96021572 (91.5 MiB)
         TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
         device interrupt 20  memory 0xfb100000-fb120000  
 
@@ -23,16 +23,16 @@ lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
 virbr0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
         inet 192.168.122.1  netmask 255.255.255.0  broadcast 192.168.122.255
         ether 52:54:00:4b:32:4a  txqueuelen 1000  (Ethernet)
-        RX packets 37502  bytes 14842732 (14.1 MiB)
+        RX packets 37517  bytes 14843796 (14.1 MiB)
         RX errors 0  dropped 0  overruns 0  frame 0
-        TX packets 29539  bytes 3259407 (3.1 MiB)
+        TX packets 29552  bytes 3260445 (3.1 MiB)
         TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
 
 vnet0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
         inet6 fe80::fc54:ff:fe8f:283f  prefixlen 64  scopeid 0x20<link>
         ether fe:54:00:8f:28:3f  txqueuelen 1000  (Ethernet)
-        RX packets 37502  bytes 15367760 (14.6 MiB)
+        RX packets 37517  bytes 15369034 (14.6 MiB)
         RX errors 0  dropped 0  overruns 0  frame 0
-        TX packets 75500  bytes 5651287 (5.3 MiB)
+        TX packets 75813  bytes 5667925 (5.4 MiB)
         TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
 
