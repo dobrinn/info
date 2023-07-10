@@ -1,13 +1,13 @@
-Mon Jul 10 04:50:01 PM EEST 2023
+Mon Jul 10 05:00:01 PM EEST 2023
 
 enp0s25: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
         inet 10.93.171.222  netmask 255.255.254.0  broadcast 10.93.171.255
         inet6 fe80::58f1:e1e8:cbaf:aa66  prefixlen 64  scopeid 0x20<link>
         inet6 fd02:1:1:15:ba38:eb4f:2538:3817  prefixlen 64  scopeid 0x0<global>
         ether 64:00:6a:84:56:2d  txqueuelen 1000  (Ethernet)
-        RX packets 4253682  bytes 1278622759 (1.1 GiB)
+        RX packets 4401618  bytes 1405351669 (1.3 GiB)
         RX errors 0  dropped 0  overruns 0  frame 0
-        TX packets 1725108  bytes 862211842 (822.2 MiB)
+        TX packets 1754311  bytes 865266981 (825.1 MiB)
         TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
         device interrupt 20  memory 0xfb100000-fb120000  
 
@@ -15,24 +15,24 @@ lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
         inet 127.0.0.1  netmask 255.0.0.0
         inet6 ::1  prefixlen 128  scopeid 0x10<host>
         loop  txqueuelen 1000  (Local Loopback)
-        RX packets 4136313  bytes 1694093766 (1.5 GiB)
+        RX packets 4161077  bytes 1718838480 (1.6 GiB)
         RX errors 0  dropped 0  overruns 0  frame 0
-        TX packets 4136313  bytes 1694093766 (1.5 GiB)
+        TX packets 4161077  bytes 1718838480 (1.6 GiB)
         TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
 
 virbr0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
         inet 192.168.122.1  netmask 255.255.255.0  broadcast 192.168.122.255
         ether 52:54:00:4b:32:4a  txqueuelen 1000  (Ethernet)
-        RX packets 32835  bytes 16300507 (15.5 MiB)
+        RX packets 51613  bytes 41074785 (39.1 MiB)
         RX errors 0  dropped 0  overruns 0  frame 0
-        TX packets 34224  bytes 23766594 (22.6 MiB)
+        TX packets 62515  bytes 64820238 (61.8 MiB)
         TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
 
 vnet0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
         inet6 fe80::fc54:ff:fe8f:283f  prefixlen 64  scopeid 0x20<link>
         ether fe:54:00:8f:28:3f  txqueuelen 1000  (Ethernet)
-        RX packets 32835  bytes 16760197 (15.9 MiB)
+        RX packets 51613  bytes 41797367 (39.8 MiB)
         RX errors 0  dropped 0  overruns 0  frame 0
-        TX packets 40278  bytes 24084944 (22.9 MiB)
+        TX packets 68869  bytes 65154188 (62.1 MiB)
         TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
 
