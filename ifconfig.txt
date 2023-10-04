@@ -1,13 +1,13 @@
-Wed Oct  4 10:20:02 AM EEST 2023
+Wed Oct  4 10:30:01 AM EEST 2023
 
 enp0s25: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
         inet 10.93.171.222  netmask 255.255.254.0  broadcast 10.93.171.255
         inet6 fd02:1:1:15:ba38:eb4f:2538:3817  prefixlen 64  scopeid 0x0<global>
         inet6 fe80::58f1:e1e8:cbaf:aa66  prefixlen 64  scopeid 0x20<link>
         ether 64:00:6a:84:56:2d  txqueuelen 1000  (Ethernet)
-        RX packets 123963  bytes 16940401 (16.1 MiB)
+        RX packets 131205  bytes 18263085 (17.4 MiB)
         RX errors 0  dropped 0  overruns 0  frame 0
-        TX packets 3894  bytes 554750 (541.7 KiB)
+        TX packets 4014  bytes 573773 (560.3 KiB)
         TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
         device interrupt 20  memory 0xfb100000-fb120000  
 
@@ -15,8 +15,8 @@ lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
         inet 127.0.0.1  netmask 255.0.0.0
         inet6 ::1  prefixlen 128  scopeid 0x10<host>
         loop  txqueuelen 1000  (Local Loopback)
-        RX packets 590  bytes 53541 (52.2 KiB)
+        RX packets 602  bytes 54613 (53.3 KiB)
         RX errors 0  dropped 0  overruns 0  frame 0
-        TX packets 590  bytes 53541 (52.2 KiB)
+        TX packets 602  bytes 54613 (53.3 KiB)
         TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
 
